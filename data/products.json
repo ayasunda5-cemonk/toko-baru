@@ -4,7 +4,7 @@
     "nama": "Kripik Singkong Renyah",
     "harga": 10000,
     "kategori": "Cemilan",
-    "gambar": "kripik-singkong.jpg",
+    "gambar": "images/kripik-singkong.jpg",
     "deskripsi": "Cemilan enak, murah, renyah, dan gurih buatan lokal."
   },
   {
@@ -12,7 +12,7 @@
     "nama": "Slondok Gurih",
     "harga": 10000,
     "kategori": "Cemilan",
-    "gambar": "slondok.jpg",
+    "gambar": "images/slondok.jpg",
     "deskripsi": "Terbuat dari singkong olahan pilihan dengan bumbu khas tradisional."
   },
   {
@@ -20,7 +20,7 @@
     "nama": "Deodorant Herbal",
     "harga": 35000,
     "kategori": "Perawatan",
-    "gambar": "deodorant.jpg",
+    "gambar": "images/deodorant.jpg",
     "deskripsi": "Membantu menghilangkan bau ketiak secara alami dan tahan seharian."
   }
 ]
