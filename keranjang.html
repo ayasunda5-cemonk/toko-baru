@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keranjang Belanja - Toko Baru</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><nav class="navbar"><a href="index.html" class="logo">Toko Baru</a>
+    <div class="nav-links"><a href="index.html">Home</a><a href="produk.html">Produk</a><a href="keranjang.html">Keranjang (<span class="cart-badge">0</span>)</a></div>
+  </nav></header>
+  <main class="container">
+    <h2>Keranjang Belanja</h2>
+    <div class="card-box" style="margin-top:1rem;">
+      <div id="cart-items"></div>
+      <div style="margin-top:1.5rem; display:flex; justify-content:space-between; align-items:center;">
+        <h3>Total: <span id="cart-total" style="color:var(--primary);">Rp 0</span></h3>
+        <a href="checkout.html" id="btn-to-checkout" class="btn btn-primary" style="display:none;">Lanjut Checkout</a>
+      </div>
+    </div>
+  </main>
+  <footer><p>&copy; 2026 Toko Baru</p></footer>
+  <script src="script.js"></script>
+</body>
+</html>
